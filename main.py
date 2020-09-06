@@ -7,7 +7,7 @@ logging.basicConfig(level=logging.INFO)
 
 
 TuTo = Client(
-    "Image upload bot",
+    "TuTo bot",
     bot_token = my.BOT_TOKEN,
     api_id = my.API_ID,
     api_hash = my.API_HASH
