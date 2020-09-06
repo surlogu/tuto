@@ -1,7 +1,7 @@
 {
   "name": "TuTo",
   "description": "Telegram Bot",
-  "repository": "https://github.com/surlogu/TuTo",
+  "repository": "https://github.com/surlogu/tuto",
   "env": {
      "BOT_TOKEN": {
       "description": "Bot token from @Botfather",
